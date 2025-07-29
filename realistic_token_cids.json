@@ -1,0 +1,52 @@
+[
+  {
+    "csv": "ipfs://bafkreig3xgt2j7mtcukqy5jglmxwlyy7unrqi2ncplgfnpq32aqomzbo4m",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreibg6ypsx4k4xkssxsd6ip4eszzvq5a3zw3crz5odtrxxlq67n5txm",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
+    "csv": "ipfs://bafkreicz5x2e44jfqtwv3pzp6pmffb76m5gjbc4lmuc6jt5cz6g6kjzmyy",
+    "symbol": "DAI",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreihs7q3rtdhe2efst2hyuxn6vs34mqtzyd5vbzgepfspghwmcjcpta",
+    "symbol": "WBTC",
+    "decimals": 8
+  },
+  {
+    "csv": "ipfs://bafkreih7cnfvd2lrxb2t27at5eqbo66q53j5o3yupku3en5mcbm7orbd5u",
+    "symbol": "LINK",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreidl5fokx4zmxoyou3rfr4nq3dckodivoh7cykvmjn72b7qvafgdde",
+    "symbol": "UNI",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreibpvpnzrmzcnrd65exf6h7gkcz2om3oibowzyq2rle5d33v4pe2om",
+    "symbol": "MKR",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreif2p6pj3xq6yb7phujihfn3ko7x4twmbzn5pv6pq5nbepow6eic24",
+    "symbol": "AAVE",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreiazv5emfdmrqx7fwjvo3fznmse4th3zzftpybmtj7ib7ndt2z5kme",
+    "symbol": "CRV",
+    "decimals": 18
+  },
+  {
+    "csv": "ipfs://bafkreiazvabf25tg7gkvr5g6p75oxqzzkeu6g7o2fop2qtb2frdtbb6jw4",
+    "symbol": "BAL",
+    "decimals": 18
+  }
+]

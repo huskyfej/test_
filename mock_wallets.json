@@ -1,0 +1,52 @@
+[
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx1",
+    "symbol": "TOKEN1",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx2",
+    "symbol": "TOKEN2",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx3",
+    "symbol": "TOKEN3",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx4",
+    "symbol": "TOKEN4",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx5",
+    "symbol": "TOKEN5",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx6",
+    "symbol": "TOKEN6",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx7",
+    "symbol": "TOKEN7",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx8",
+    "symbol": "TOKEN8",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxxx9",
+    "symbol": "TOKEN9",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreixxxxxxxxxxxxxxxxxxxxxxxxxxxx10",
+    "symbol": "TOKEN10",
+    "decimals": 0
+  }
+]

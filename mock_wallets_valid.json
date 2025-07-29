@@ -1,0 +1,52 @@
+[
+  {
+    "csv": "ipfs://bafkreie9ae9c67c961678f74",
+    "symbol": "TOKEN1",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreif2772d1825bac26bfb",
+    "symbol": "TOKEN2",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkrei9bc465e569b59ebb03",
+    "symbol": "TOKEN3",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkrei3b439907a2e3478232",
+    "symbol": "TOKEN4",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkrei6568617da572adde1e",
+    "symbol": "TOKEN5",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreibe26c7200003380289",
+    "symbol": "TOKEN6",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkrei97da7bfcb56ecebe0d",
+    "symbol": "TOKEN7",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkrei173f42b9e154ae8b01",
+    "symbol": "TOKEN8",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkreib36445f63827827368",
+    "symbol": "TOKEN9",
+    "decimals": 0
+  },
+  {
+    "csv": "ipfs://bafkrei83e400fad7d361fc56",
+    "symbol": "TOKEN10",
+    "decimals": 0
+  }
+]
